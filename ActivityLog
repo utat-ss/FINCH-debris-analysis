@@ -1,0 +1,207 @@
+04 27 2023; 15:15:49PM	Activity Log Started
+04 27 2023; 15:15:49PM	Project Data Saved To File
+04 27 2023; 15:17:16PM	Project Data Saved To File
+04 27 2023; 15:17:16PM	Project Data Saved To File
+04 27 2023; 15:17:18PM	Project Data Saved To File
+04 27 2023; 15:17:30PM	Project Data Saved To File
+04 27 2023; 15:17:31PM	Project Data Saved To File
+04 27 2023; 15:17:32PM	Project Data Saved To File
+04 27 2023; 15:17:32PM	Project Data Saved To File
+04 27 2023; 15:17:36PM	Project Data Saved To File
+04 27 2023; 15:17:36PM	Project Data Saved To File
+04 27 2023; 15:17:41PM	Project Data Saved To File
+04 27 2023; 15:17:42PM	Project Data Saved To File
+04 27 2023; 15:18:01PM	Project Data Saved To File
+04 27 2023; 15:18:02PM	Project Data Saved To File
+04 27 2023; 15:18:03PM	Project Data Saved To File
+04 27 2023; 15:18:03PM	Project Data Saved To File
+04 27 2023; 15:18:04PM	Project Data Saved To File
+04 27 2023; 15:18:05PM	Project Data Saved To File
+04 27 2023; 15:47:07PM	Project Data Saved To File
+04 27 2023; 15:47:12PM	Project Data Saved To File
+04 27 2023; 15:47:47PM	Project Data Saved To File
+04 27 2023; 15:55:34PM	Project Data Saved To File
+04 27 2023; 15:55:37PM	Project Data Saved To File
+04 27 2023; 15:55:44PM	Project Data Saved To File
+04 27 2023; 15:55:44PM	Project Data Saved To File
+04 27 2023; 15:55:48PM	Project Data Saved To File
+04 27 2023; 15:55:49PM	Project Data Saved To File
+04 27 2023; 15:55:49PM	Project Data Saved To File
+04 27 2023; 15:55:50PM	Project Data Saved To File
+04 27 2023; 16:01:01PM	Project Data Saved To File
+04 27 2023; 16:01:21PM	Mission Editor Changes Applied
+04 27 2023; 16:01:21PM	Project Data Saved To File
+04 27 2023; 16:01:21PM	Project Data Saved To File
+04 27 2023; 16:02:09PM	Processing Requirement 4.6	Return Status :  Passed
+
+==============
+Project Data
+==============
+
+**INPUT**
+
+	Space Structure Name = FINCH EYE
+	Space Structure Type = Payload
+
+	Perigee Altitude = 550.000000 (km)
+	Apogee Altitude = 550.000000 (km)
+	Inclination = 97.600000 (deg)
+	RAAN = 0.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Mean Anomaly = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.035000 (m^2/kg)
+	Start Year = 2025.100000 (yr)
+	Initial Mass = 4.000000 (kg)
+	Final Mass = 4.000000 (kg)
+	Duration = 1.000000 (yr)
+	Station Kept = False
+	Abandoned = True
+	PMD Perigee Altitude = 483.888180 (km)
+	PMD Apogee Altitude = 509.190746 (km)
+	PMD Inclination = 97.629607 (deg)
+	PMD RAAN = 3.953374 (deg)
+	PMD Argument of Perigee = 91.910328 (deg)
+	PMD Mean Anomaly = 0.000000 (deg)
+	Long-Term Reentry = False
+
+**OUTPUT**
+
+	Suggested Perigee Altitude = 483.888180 (km)
+	Suggested Apogee Altitude = 509.190746 (km)
+	Returned Error Message = Passes LEO reentry orbit criteria.
+
+	Released Year = 2026 (yr)
+	Requirement = 61
+	Compliance Status = Pass
+
+==============
+
+=============== End of Requirement 4.6 ===============
+04 27 2023; 16:04:00PM	Project Data Saved To File
+04 27 2023; 16:07:09PM	Processing Requirement 4.6	Return Status :  Passed
+
+==============
+Project Data
+==============
+
+**INPUT**
+
+	Space Structure Name = FINCH EYE
+	Space Structure Type = Payload
+
+	Perigee Altitude = 550.000000 (km)
+	Apogee Altitude = 550.000000 (km)
+	Inclination = 97.600000 (deg)
+	RAAN = 0.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Mean Anomaly = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.035000 (m^2/kg)
+	Start Year = 2025.100000 (yr)
+	Initial Mass = 4.000000 (kg)
+	Final Mass = 4.000000 (kg)
+	Duration = 1.000000 (yr)
+	Station Kept = False
+	Abandoned = True
+	PMD Perigee Altitude = 483.888180 (km)
+	PMD Apogee Altitude = 509.190746 (km)
+	PMD Inclination = 97.629607 (deg)
+	PMD RAAN = 3.953374 (deg)
+	PMD Argument of Perigee = 91.910328 (deg)
+	PMD Mean Anomaly = 0.000000 (deg)
+	Long-Term Reentry = False
+
+**OUTPUT**
+
+	Suggested Perigee Altitude = 483.888180 (km)
+	Suggested Apogee Altitude = 509.190746 (km)
+	Returned Error Message = Passes LEO reentry orbit criteria.
+
+	Released Year = 2026 (yr)
+	Requirement = 61
+	Compliance Status = Pass
+
+==============
+
+=============== End of Requirement 4.6 ===============
+04 27 2023; 16:09:08PM	*********Processing Requirement 4.7-1
+	Return Status :  Passed
+
+***********INPUT****
+ Item Number = 1 
+
+name = FINCH EYE
+quantity = 1
+parent = 0
+materialID = 5
+type = Box
+Aero Mass = 4.000000
+Thermal Mass = 4.000000
+Diameter/Width = 0.100000
+Length = 0.300000
+Height = 0.100000
+
+name = F
+quantity = 1
+parent = 1
+materialID = 5
+type = Box
+Aero Mass = 4.000000
+Thermal Mass = 4.000000
+Diameter/Width = 0.100000
+Length = 0.300000
+Height = 0.100000
+
+**************OUTPUT****
+Item Number = 1 
+
+name = FINCH EYE
+Demise Altitude = 77.999126
+Debris Casualty Area = 0.000000
+Impact Kinetic Energy = 0.000000
+
+*************************************
+name = F
+Demise Altitude = 69.914028
+Debris Casualty Area = 0.000000
+Impact Kinetic Energy = 0.000000
+
+*************************************
+
+=============== End of Requirement 4.7-1 ===============
+04 27 2023; 16:09:08PM	Project Data Saved To File
+04 27 2023; 16:12:18PM	Processing Requirement 4.5-1:	Return Status :  Passed
+
+==============
+Run Data
+==============
+
+**INPUT**
+
+	Space Structure Name = FINCH EYE
+	Space Structure Type = Payload
+	Perigee Altitude = 550.000 (km)
+	Apogee Altitude = 550.000 (km)
+	Inclination = 97.600 (deg)
+	RAAN = 0.000 (deg)
+	Argument of Perigee = 0.000 (deg)
+	Mean Anomaly = 0.000 (deg)
+	Final Area-To-Mass Ratio = 0.0350 (m^2/kg)
+	Start Year = 2025.100 (yr)
+	Initial Mass = 4.000 (kg)
+	Final Mass = 4.000 (kg)
+	Duration = 1.000 (yr)
+	Station-Kept = False
+	Abandoned = True
+	Long-Term Reentry = False
+
+**OUTPUT**
+
+	Collision Probability = 6.2520E-07
+	Returned Message: Normal Processing
+	Date Range Message: Normal Date Range
+	Status = Pass
+
+==============
+
+=============== End of Requirement 4.5-1 ===============
+
