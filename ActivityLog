@@ -205,3 +205,293 @@ Run Data
 
 =============== End of Requirement 4.5-1 ===============
 
+05 01 2023; 17:04:46PM	Activity Log Started
+05 01 2023; 17:04:46PM	Opened Project C:\Users\Optics\Documents\GitHub\FINCH-debris-analysis\
+05 01 2023; 19:33:34PM	Project Data Saved To File
+05 01 2023; 19:33:39PM	Project Data Saved To File
+05 01 2023; 19:48:38PM	Project Data Saved To File
+05 01 2023; 19:48:49PM	Mission Editor Changes Applied
+05 01 2023; 19:48:49PM	Project Data Saved To File
+05 01 2023; 19:48:49PM	Project Data Saved To File
+05 01 2023; 20:04:48PM	Mission Editor Changes Applied
+05 01 2023; 20:04:48PM	Project Data Saved To File
+05 01 2023; 20:04:48PM	Project Data Saved To File
+05 01 2023; 20:09:36PM	Mission Editor Changes Applied
+05 01 2023; 20:09:36PM	Project Data Saved To File
+05 01 2023; 20:09:36PM	Project Data Saved To File
+05 01 2023; 20:10:54PM	Mission Editor Changes Applied
+05 01 2023; 20:10:54PM	Project Data Saved To File
+05 01 2023; 20:10:54PM	Project Data Saved To File
+05 01 2023; 20:11:14PM	Project Data Saved To File
+05 01 2023; 21:26:56PM	Science and Engineering - Orbit Lifetime/Dwell Time
+
+**INPUT**
+
+	Start Year = 2026.000000 (yr)
+	Perigee Altitude = 500.000000 (km)
+	Apogee Altitude = 500.000000 (km)
+	Inclination = 97.600000 (deg)
+	RAAN = 227.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.012750 (m^2/kg)
+
+**OUTPUT**
+
+	Orbital Lifetime from Startyr = 2.891170 (yr)
+	Time Spent in LEO during Lifetime  = 2.891170 (yr)
+	Last year of Propagation = 2028 (yr)
+	Returned Error Message: Object reentered
+05 01 2023; 21:28:20PM	Science and Engineering - Orbit Lifetime/Dwell Time
+
+**INPUT**
+
+	Start Year = 2026.000000 (yr)
+	Perigee Altitude = 550.000000 (km)
+	Apogee Altitude = 550.000000 (km)
+	Inclination = 97.600000 (deg)
+	RAAN = 227.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.003300 (m^2/kg)
+
+**OUTPUT**
+
+	Orbital Lifetime from Startyr = 22.078029 (yr)
+	Time Spent in LEO during Lifetime  = 22.078029 (yr)
+	Last year of Propagation = 2048 (yr)
+	Returned Error Message: Object reentered
+05 01 2023; 21:29:56PM	Science and Engineering - Orbit Lifetime/Dwell Time
+
+**INPUT**
+
+	Start Year = 2026.000000 (yr)
+	Perigee Altitude = 500.000000 (km)
+	Apogee Altitude = 500.000000 (km)
+	Inclination = 97.600000 (deg)
+	RAAN = 227.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.012750 (m^2/kg)
+
+**OUTPUT**
+
+	Orbital Lifetime from Startyr = 2.891170 (yr)
+	Time Spent in LEO during Lifetime  = 2.891170 (yr)
+	Last year of Propagation = 2028 (yr)
+	Returned Error Message: Object reentered
+05 01 2023; 21:30:08PM	Science and Engineering - Orbit Lifetime/Dwell Time
+
+**INPUT**
+
+	Start Year = 2026.000000 (yr)
+	Perigee Altitude = 550.000000 (km)
+	Apogee Altitude = 550.000000 (km)
+	Inclination = 97.600000 (deg)
+	RAAN = 227.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.012750 (m^2/kg)
+
+**OUTPUT**
+
+	Orbital Lifetime from Startyr = 8.772074 (yr)
+	Time Spent in LEO during Lifetime  = 8.772074 (yr)
+	Last year of Propagation = 2034 (yr)
+	Returned Error Message: Object reentered
+05 01 2023; 21:30:45PM	Science and Engineering - Orbit Lifetime/Dwell Time
+
+**INPUT**
+
+	Start Year = 2026.000000 (yr)
+	Perigee Altitude = 500.000000 (km)
+	Apogee Altitude = 500.000000 (km)
+	Inclination = 97.600000 (deg)
+	RAAN = 227.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.012750 (m^2/kg)
+
+**OUTPUT**
+
+	Orbital Lifetime from Startyr = 2.891170 (yr)
+	Time Spent in LEO during Lifetime  = 2.891170 (yr)
+	Last year of Propagation = 2028 (yr)
+	Returned Error Message: Object reentered
+05 01 2023; 21:30:59PM	Science and Engineering - Orbit Lifetime/Dwell Time
+
+**INPUT**
+
+	Start Year = 2026.000000 (yr)
+	Perigee Altitude = 500.000000 (km)
+	Apogee Altitude = 500.000000 (km)
+	Inclination = 97.600000 (deg)
+	RAAN = 227.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.003300 (m^2/kg)
+
+**OUTPUT**
+
+	Orbital Lifetime from Startyr = 10.765229 (yr)
+	Time Spent in LEO during Lifetime  = 10.765229 (yr)
+	Last year of Propagation = 2036 (yr)
+	Returned Error Message: Object reentered
+05 01 2023; 21:32:04PM	Science and Engineering - Orbit Lifetime/Dwell Time
+
+**INPUT**
+
+	Start Year = 2026.000000 (yr)
+	Perigee Altitude = 550.000000 (km)
+	Apogee Altitude = 550.000000 (km)
+	Inclination = 97.600000 (deg)
+	RAAN = 227.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.012750 (m^2/kg)
+
+**OUTPUT**
+
+	Orbital Lifetime from Startyr = 8.772074 (yr)
+	Time Spent in LEO during Lifetime  = 8.772074 (yr)
+	Last year of Propagation = 2034 (yr)
+	Returned Error Message: Object reentered
+05 01 2023; 21:33:02PM	Science and Engineering - Orbit Lifetime/Dwell Time
+
+**INPUT**
+
+	Start Year = 2026.000000 (yr)
+	Perigee Altitude = 525.000000 (km)
+	Apogee Altitude = 525.000000 (km)
+	Inclination = 97.600000 (deg)
+	RAAN = 227.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.012750 (m^2/kg)
+
+**OUTPUT**
+
+	Orbital Lifetime from Startyr = 7.356605 (yr)
+	Time Spent in LEO during Lifetime  = 7.356605 (yr)
+	Last year of Propagation = 2033 (yr)
+	Returned Error Message: Object reentered
+05 01 2023; 21:33:09PM	Science and Engineering - Orbit Lifetime/Dwell Time
+
+**INPUT**
+
+	Start Year = 2026.000000 (yr)
+	Perigee Altitude = 500.000000 (km)
+	Apogee Altitude = 500.000000 (km)
+	Inclination = 97.600000 (deg)
+	RAAN = 227.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.012750 (m^2/kg)
+
+**OUTPUT**
+
+	Orbital Lifetime from Startyr = 2.891170 (yr)
+	Time Spent in LEO during Lifetime  = 2.891170 (yr)
+	Last year of Propagation = 2028 (yr)
+	Returned Error Message: Object reentered
+05 01 2023; 21:33:20PM	Science and Engineering - Orbit Lifetime/Dwell Time
+
+**INPUT**
+
+	Start Year = 2026.000000 (yr)
+	Perigee Altitude = 510.000000 (km)
+	Apogee Altitude = 510.000000 (km)
+	Inclination = 97.600000 (deg)
+	RAAN = 227.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.012750 (m^2/kg)
+
+**OUTPUT**
+
+	Orbital Lifetime from Startyr = 4.098563 (yr)
+	Time Spent in LEO during Lifetime  = 4.098563 (yr)
+	Last year of Propagation = 2030 (yr)
+	Returned Error Message: Object reentered
+05 01 2023; 21:41:12PM	Science and Engineering - Orbit Lifetime/Dwell Time
+
+**INPUT**
+
+	Start Year = 2026.000000 (yr)
+	Perigee Altitude = 500.000000 (km)
+	Apogee Altitude = 500.000000 (km)
+	Inclination = 97.600000 (deg)
+	RAAN = 227.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.003300 (m^2/kg)
+
+**OUTPUT**
+
+	Orbital Lifetime from Startyr = 10.765229 (yr)
+	Time Spent in LEO during Lifetime  = 10.765229 (yr)
+	Last year of Propagation = 2036 (yr)
+	Returned Error Message: Object reentered
+05 01 2023; 21:42:52PM	Science and Engineering - Orbit Lifetime/Dwell Time
+
+**INPUT**
+
+	Start Year = 2026.000000 (yr)
+	Perigee Altitude = 500.000000 (km)
+	Apogee Altitude = 500.000000 (km)
+	Inclination = 97.600000 (deg)
+	RAAN = 227.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.002500 (m^2/kg)
+
+**OUTPUT**
+
+	Orbital Lifetime from Startyr = 12.867899 (yr)
+	Time Spent in LEO during Lifetime  = 12.867899 (yr)
+	Last year of Propagation = 2038 (yr)
+	Returned Error Message: Object reentered
+05 01 2023; 21:46:37PM	Science and Engineering - Orbit Lifetime/Dwell Time
+
+**INPUT**
+
+	Start Year = 2026.000000 (yr)
+	Perigee Altitude = 550.000000 (km)
+	Apogee Altitude = 550.000000 (km)
+	Inclination = 97.600000 (deg)
+	RAAN = 227.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.002500 (m^2/kg)
+
+**OUTPUT**
+
+	Orbital Lifetime from Startyr = 30.798084 (yr)
+	Time Spent in LEO during Lifetime  = 30.798084 (yr)
+	Last year of Propagation = 2056 (yr)
+	Returned Error Message: Object reentered
+05 01 2023; 21:53:27PM	Science and Engineering - Orbit Lifetime/Dwell Time
+
+**INPUT**
+
+	Start Year = 2026.000000 (yr)
+	Perigee Altitude = 500.000000 (km)
+	Apogee Altitude = 500.000000 (km)
+	Inclination = 97.600000 (deg)
+	RAAN = 227.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.017000 (m^2/kg)
+
+**OUTPUT**
+
+	Orbital Lifetime from Startyr = 1.900068 (yr)
+	Time Spent in LEO during Lifetime  = 1.900068 (yr)
+	Last year of Propagation = 2027 (yr)
+	Returned Error Message: Object reentered
+05 01 2023; 22:01:12PM	Project Data Saved To File
+05 01 2023; 22:10:31PM	Project Data Saved To File
+05 02 2023; 20:00:06PM	Science and Engineering - Apogee/Perigee History for a Given Orbit
+
+**INPUT**
+
+	Perigee Altitude = 500.000000 (km)
+	Apogee Altitude = 500.000000 (km)
+	Inclination = 97.600000 (deg)
+	RAAN = 227.000000 (deg)
+	Argument of Perigee = 0.000000 (deg)
+	Mean Anomaly = 0.000000 (deg)
+	Area-To-Mass Ratio = 0.017000 (m^2/kg)
+	Start Year = 2026.000000 (yr)
+	Integration Time = 10.000000 (yr)
+
+**OUTPUT**
+
+	Plot
+05 02 2023; 20:46:08PM	Project Data Saved To File
