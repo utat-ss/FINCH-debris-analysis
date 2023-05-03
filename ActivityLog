@@ -495,3 +495,318 @@ Run Data
 
 	Plot
 05 02 2023; 20:46:08PM	Project Data Saved To File
+05 02 2023; 20:53:54PM	Activity Log Started
+05 02 2023; 20:53:54PM	Opened Project C:\Users\Optics\Documents\GitHub\FINCH-debris-analysis\
+05 02 2023; 20:54:04PM	Science and Engineering - Cross Sectional Area Plot
+
+**INPUT**
+
+	Satellite Orientation = Random Tumbling 
+	Component Shapes - Number of Items = 3
+	Number of [v,w,u] Triangles = 2
+
+		 Point 1 [0.000,0.000,0.000] 
+		 Point 2 [0.000,100.000,0.000] 
+		 Point 3 [340.500,0.000,0.000] 
+
+		 Point 1 [0.000,100.000,0.000] 
+		 Point 2 [340.500,0.000,0.000] 
+		 Point 3 [340.500,100.000,0.000] 
+
+	Number of [v,w,u] Cylinders = 1
+
+		 Point 1 [340.500,50.000,50.000] 
+		 Point 2 [380.500,50.000,50.000] 
+
+		 Point 1 Cylindrical radius 80.000 (m) 
+		 Point 2 Cylindrical radius 80.000 (m) 
+
+	Number of [v,w,u] Spheres = 0
+
+
+**OUTPUT**
+
+	Plot
+05 02 2023; 21:20:10PM	Activity Log Started
+05 02 2023; 21:20:10PM	Opened Project C:\Users\Optics\Documents\GitHub\FINCH-debris-analysis\
+05 02 2023; 21:20:16PM	Science and Engineering - Cross Sectional Area Plot
+
+**INPUT**
+
+	Satellite Orientation = Random Tumbling 
+	Component Shapes - Number of Items = 13
+	Number of [v,w,u] Triangles = 12
+
+		 Point 1 [0.000,0.000,0.000] 
+		 Point 2 [0.000,0.000,100.000] 
+		 Point 3 [100.000,0.000,0.000] 
+
+		 Point 1 [100.000,0.000,0.000] 
+		 Point 2 [0.000,0.000,100.000] 
+		 Point 3 [100.000,0.000,100.000] 
+
+		 Point 1 [0.000,0.000,100.000] 
+		 Point 2 [0.000,100.000,100.000] 
+		 Point 3 [100.000,100.000,100.000] 
+
+		 Point 1 [0.000,0.000,100.000] 
+		 Point 2 [100.000,0.000,100.000] 
+		 Point 3 [100.000,100.000,100.000] 
+
+		 Point 1 [0.000,100.000,0.000] 
+		 Point 2 [0.000,100.000,100.000] 
+		 Point 3 [340.500,100.000,100.000] 
+
+		 Point 1 [0.000,100.000,0.000] 
+		 Point 2 [340.500,100.000,100.000] 
+		 Point 3 [340.500,100.000,0.000] 
+
+		 Point 1 [0.000,0.000,0.000] 
+		 Point 2 [340.500,0.000,0.000] 
+		 Point 3 [340.500,0.000,100.000] 
+
+		 Point 1 [0.000,0.000,0.000] 
+		 Point 2 [340.500,0.000,100.000] 
+		 Point 3 [0.000,0.000,100.000] 
+
+		 Point 1 [100.000,0.000,0.000] 
+		 Point 2 [100.000,0.000,100.000] 
+		 Point 3 [340.500,0.000,100.000] 
+
+		 Point 1 [100.000,0.000,0.000] 
+		 Point 2 [340.500,0.000,100.000] 
+		 Point 3 [340.500,0.000,0.000] 
+
+		 Point 1 [100.000,0.000,100.000] 
+		 Point 2 [100.000,100.000,100.000] 
+		 Point 3 [340.500,100.000,100.000] 
+
+		 Point 1 [100.000,0.000,100.000] 
+		 Point 2 [340.500,100.000,100.000] 
+		 Point 3 [340.500,100.000,0.000] 
+
+	Number of [v,w,u] Cylinders = 1
+
+		 Point 1 [340.500,50.000,50.000] 
+		 Point 2 [380.500,50.000,50.000] 
+
+		 Point 1 Cylindrical radius 80.000 (m) 
+		 Point 2 Cylindrical radius 80.000 (m) 
+
+	Number of [v,w,u] Spheres = 0
+
+
+**OUTPUT**
+
+	Plot
+05 02 2023; 21:24:24PM	Science and Engineering - Cross Sectional Area Plot
+
+**INPUT**
+
+	Satellite Orientation = Random Tumbling 
+	Component Shapes - Number of Items = 13
+	Number of [v,w,u] Triangles = 12
+
+		 Point 1 [0.000,0.000,0.000] 
+		 Point 2 [0.000,0.000,100.000] 
+		 Point 3 [100.000,0.000,0.000] 
+
+		 Point 1 [100.000,0.000,0.000] 
+		 Point 2 [0.000,0.000,100.000] 
+		 Point 3 [100.000,0.000,100.000] 
+
+		 Point 1 [0.000,0.000,100.000] 
+		 Point 2 [0.000,100.000,100.000] 
+		 Point 3 [100.000,100.000,100.000] 
+
+		 Point 1 [0.000,0.000,100.000] 
+		 Point 2 [100.000,0.000,100.000] 
+		 Point 3 [100.000,100.000,100.000] 
+
+		 Point 1 [0.000,100.000,0.000] 
+		 Point 2 [0.000,100.000,100.000] 
+		 Point 3 [340.500,100.000,100.000] 
+
+		 Point 1 [0.000,100.000,0.000] 
+		 Point 2 [340.500,100.000,100.000] 
+		 Point 3 [340.500,100.000,0.000] 
+
+		 Point 1 [0.000,0.000,0.000] 
+		 Point 2 [340.500,0.000,0.000] 
+		 Point 3 [340.500,0.000,100.000] 
+
+		 Point 1 [0.000,0.000,0.000] 
+		 Point 2 [340.500,0.000,100.000] 
+		 Point 3 [0.000,0.000,100.000] 
+
+		 Point 1 [100.000,0.000,0.000] 
+		 Point 2 [100.000,0.000,100.000] 
+		 Point 3 [340.500,0.000,100.000] 
+
+		 Point 1 [100.000,0.000,0.000] 
+		 Point 2 [340.500,0.000,100.000] 
+		 Point 3 [340.500,0.000,0.000] 
+
+		 Point 1 [100.000,0.000,100.000] 
+		 Point 2 [100.000,100.000,100.000] 
+		 Point 3 [340.500,100.000,100.000] 
+
+		 Point 1 [100.000,0.000,100.000] 
+		 Point 2 [340.500,100.000,100.000] 
+		 Point 3 [340.500,100.000,0.000] 
+
+	Number of [v,w,u] Cylinders = 1
+
+		 Point 1 [340.500,50.000,50.000] 
+		 Point 2 [380.500,50.000,50.000] 
+
+		 Point 1 Cylindrical radius 80.000 (m) 
+		 Point 2 Cylindrical radius 80.000 (m) 
+
+	Number of [v,w,u] Spheres = 0
+
+
+**OUTPUT**
+
+	Plot
+05 02 2023; 21:24:57PM	Science and Engineering - Cross Sectional Area Plot
+
+**INPUT**
+
+	Satellite Orientation = Random Tumbling 
+	Component Shapes - Number of Items = 13
+	Number of [v,w,u] Triangles = 12
+
+		 Point 1 [0.000,0.000,0.000] 
+		 Point 2 [0.000,0.000,100.000] 
+		 Point 3 [100.000,0.000,0.000] 
+
+		 Point 1 [100.000,0.000,0.000] 
+		 Point 2 [0.000,0.000,100.000] 
+		 Point 3 [100.000,0.000,100.000] 
+
+		 Point 1 [0.000,0.000,100.000] 
+		 Point 2 [0.000,100.000,100.000] 
+		 Point 3 [100.000,100.000,100.000] 
+
+		 Point 1 [0.000,0.000,100.000] 
+		 Point 2 [100.000,0.000,100.000] 
+		 Point 3 [100.000,100.000,100.000] 
+
+		 Point 1 [0.000,100.000,0.000] 
+		 Point 2 [0.000,100.000,100.000] 
+		 Point 3 [340.500,100.000,100.000] 
+
+		 Point 1 [0.000,100.000,0.000] 
+		 Point 2 [340.500,100.000,100.000] 
+		 Point 3 [340.500,100.000,0.000] 
+
+		 Point 1 [0.000,0.000,0.000] 
+		 Point 2 [340.500,0.000,0.000] 
+		 Point 3 [340.500,0.000,100.000] 
+
+		 Point 1 [0.000,0.000,0.000] 
+		 Point 2 [340.500,0.000,100.000] 
+		 Point 3 [0.000,0.000,100.000] 
+
+		 Point 1 [100.000,0.000,0.000] 
+		 Point 2 [100.000,0.000,100.000] 
+		 Point 3 [340.500,0.000,100.000] 
+
+		 Point 1 [100.000,0.000,0.000] 
+		 Point 2 [340.500,0.000,100.000] 
+		 Point 3 [340.500,0.000,0.000] 
+
+		 Point 1 [100.000,0.000,100.000] 
+		 Point 2 [100.000,100.000,100.000] 
+		 Point 3 [340.500,100.000,100.000] 
+
+		 Point 1 [100.000,0.000,100.000] 
+		 Point 2 [340.500,100.000,100.000] 
+		 Point 3 [340.500,100.000,0.000] 
+
+	Number of [v,w,u] Cylinders = 1
+
+		 Point 1 [340.500,50.000,50.000] 
+		 Point 2 [380.500,50.000,50.000] 
+
+		 Point 1 Cylindrical radius 40.000 (m) 
+		 Point 2 Cylindrical radius 40.000 (m) 
+
+	Number of [v,w,u] Spheres = 0
+
+
+**OUTPUT**
+
+	Plot
+05 02 2023; 21:32:48PM	Science and Engineering - Cross Sectional Area Plot
+
+**INPUT**
+
+	Satellite Orientation = Random Tumbling 
+	Component Shapes - Number of Items = 13
+	Number of [v,w,u] Triangles = 12
+
+		 Point 1 [0.000,0.000,0.000] 
+		 Point 2 [0.000,0.000,100.000] 
+		 Point 3 [340.500,0.000,0.000] 
+
+		 Point 1 [340.500,0.000,0.000] 
+		 Point 2 [340.500,0.000,100.000] 
+		 Point 3 [0.000,0.000,100.000] 
+
+		 Point 1 [0.000,0.000,100.000] 
+		 Point 2 [0.000,100.000,100.000] 
+		 Point 3 [100.000,100.000,100.000] 
+
+		 Point 1 [0.000,0.000,100.000] 
+		 Point 2 [100.000,0.000,100.000] 
+		 Point 3 [100.000,100.000,100.000] 
+
+		 Point 1 [0.000,100.000,0.000] 
+		 Point 2 [0.000,100.000,100.000] 
+		 Point 3 [340.500,100.000,100.000] 
+
+		 Point 1 [0.000,100.000,0.000] 
+		 Point 2 [340.500,100.000,100.000] 
+		 Point 3 [340.500,100.000,0.000] 
+
+		 Point 1 [0.000,0.000,0.000] 
+		 Point 2 [340.500,0.000,0.000] 
+		 Point 3 [340.500,0.000,100.000] 
+
+		 Point 1 [0.000,0.000,0.000] 
+		 Point 2 [340.500,0.000,100.000] 
+		 Point 3 [0.000,0.000,100.000] 
+
+		 Point 1 [100.000,0.000,0.000] 
+		 Point 2 [100.000,0.000,100.000] 
+		 Point 3 [340.500,0.000,100.000] 
+
+		 Point 1 [100.000,0.000,0.000] 
+		 Point 2 [340.500,0.000,100.000] 
+		 Point 3 [340.500,0.000,0.000] 
+
+		 Point 1 [100.000,0.000,100.000] 
+		 Point 2 [100.000,100.000,100.000] 
+		 Point 3 [340.500,100.000,100.000] 
+
+		 Point 1 [100.000,0.000,100.000] 
+		 Point 2 [340.500,100.000,100.000] 
+		 Point 3 [340.500,100.000,0.000] 
+
+	Number of [v,w,u] Cylinders = 1
+
+		 Point 1 [340.500,50.000,50.000] 
+		 Point 2 [380.500,50.000,50.000] 
+
+		 Point 1 Cylindrical radius 40.000 (m) 
+		 Point 2 Cylindrical radius 40.000 (m) 
+
+	Number of [v,w,u] Spheres = 0
+
+
+**OUTPUT**
+
+	Plot
+05 02 2023; 21:34:46PM	Project Data Saved To File

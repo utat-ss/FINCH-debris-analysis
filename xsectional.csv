@@ -1,15 +1,15 @@
-Science and Engineering - Calculate Cross Sectional Area,,,,,,,,,,,
+Science and Engineering - Calculate Cross Sectional Area
 Component Shape,Point 1 U (LU),Point 1 V (LU),Point 1 W (LU),Point 2 U (LU),Point 2 V (LU),Point 2 W (LU),Point 3 U (LU),Point 3 V (LU),Point 3 W (LU),Radius 1 (LU),Radius 2 (LU)
-Triangle,0,0,0,0,0,100,100,0,0,-,-
-Triangle,100,0,0,0,0,100,100,0,100,-,-
-Triangle,0,0,100,0,100,100,100,100,100,-,-
-Triangle,0,0,100,100,0,100,100,100,100,-,-
-Triangle,0,100,0,0,100,100,340.5,100,100,-,-
-Triangle,0,100,0,340.5,100,100,340.5,100,0,-,-
-Triangle,0,0,0,340.5,0,0,340.5,0,100,-,-
-Triangle,0,0,0,340.5,0,100,0,0,100,-,-
-Triangle,100,0,0,100,0,100,340.5,0,100,-,-
-Triangle,100,0,0,340.5,0,100,340.5,0,0,-,-
-Triangle,100,0,100,100,100,100,340.5,100,100,-,-
-Triangle,100,0,100,340.5,100,100,340.5,100,0,-,-
-Cylinder,340.5,50,50,380.5,50,50,-,-,-,80,80
+Triangle,0,0,0,0,0,100,340.5,0,0,,
+Triangle,340.5,0,0,340.5,0,100,0,0,100,,
+Triangle,,,,,,,,,,,
+Triangle,,,,,,,,,,,
+Triangle,,,,,,,,,,,
+Triangle,,,,,,,,,,,
+Triangle,,,,,,,,,,,
+Triangle,,,,,,,,,,,
+Triangle,,,,,,,,,,,
+Triangle,,,,,,,,,,,
+Triangle,,,,,,,,,,,
+Triangle,,,,,,,,,,,
+Cylinder,340.5,50,50,380.5,50,50,,,,40,40
