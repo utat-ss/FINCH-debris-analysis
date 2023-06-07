@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "finch-debris-assessment"
+version = "0.1.0"
+description = ""
+authors = ["David Maranto <D.Maranto1122@gmail.com>"]
+readme = "README.md"
+packages = [{include = "finch_debris_assessment"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.0.2"
+plotly = "^5.14.1"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.23.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
