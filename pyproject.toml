@@ -10,6 +10,7 @@ packages = [{include = "finch_debris_assessment"}]
 python = "^3.10"
 pandas = "^2.0.2"
 plotly = "^5.14.1"
+nbformat = "^5.9.0"
 
 
 [tool.poetry.group.dev.dependencies]
